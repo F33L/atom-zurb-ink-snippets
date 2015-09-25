@@ -10,7 +10,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ### Snippets
 | Module | Atom Prefix | Description  |
 |:------------- | :------------- | :----------- |
-| [Boilerplate](###Boilerplate) | zi-boilerplate |  Sets up your document |
+| [Boilerplate](#boilerplate) | zi-boilerplate |  Sets up your document |
 | [Container](#Container) | zi-container | Wraps the content and maintains a fixed width  |
 | [Row](#Row) | zi-row | Separates blocks of content vertically  |
 | [Wrapper](#Wrapper) | zi-wrapper | Wraps hozitonal content inside a row  |
@@ -22,7 +22,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 
 —
 
-#### Boilerplate
+#### Boilerplate <a name="boilerplate"></a>
 ```
 <!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
 <html xmlns=“http://www.w3.org/1999/xhtml”>
