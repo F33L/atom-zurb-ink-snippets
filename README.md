@@ -5,7 +5,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 
 | Module | Atom Prefix | Description  |
 |:------------- | :------------- | :----------- |
-| [Boilerplate](#Boilerplate) | zi-boilerplate |  Sets up your document |
+| [Boilerplate](###Boilerplate) | zi-boilerplate |  Sets up your document |
 | [Container](#Container) | zi-container | Wraps the content and maintains a fixed width  |
 | [Row](#Row) | zi-row | Separates blocks of content vertically  |
 | [Wrapper](#Wrapper) | zi-wrapper | Wraps hozitonal content inside a row  |
