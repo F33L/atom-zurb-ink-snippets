@@ -23,6 +23,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 #### <a name="boilerplate"></a>Boilerplate 
+[Ink Documentation](http://zurb.com/ink/docs.php#start)
 ```
 <!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
 <html xmlns=“http://www.w3.org/1999/xhtml”>
@@ -57,6 +58,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 #### <a name="Container"></a>Container
+[Ink Documentation](http://zurb.com/ink/docs.php#grid)
 ```
 <!-- Container -->
 
@@ -72,6 +74,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 ### <a name="Row">Row
+[Ink Documentation](http://zurb.com/ink/docs.php#grid)
 ```
 <!-- Row -->
 
@@ -86,6 +89,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 #### <a name="Wrapper"></a>Wrapper
+[Ink Documentation](http://zurb.com/ink/docs.php#grid)
 ```
 <!-- Wrapper -->
 
@@ -96,6 +100,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 #### <a name="Columns"></a>Columns
+[Ink Documentation](http://zurb.com/ink/docs.php#grid)
 ```
 <!-- Columns -->
 
@@ -114,6 +119,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 #### <a name="Sub-column"></a>Sub-column
+[Ink Documentation](http://zurb.com/ink/docs.php#sub-grid)
 ```
 <!-- Sub-Column -->
 
@@ -126,6 +132,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 #### <a name="Block"></a>Block
+[Ink Documentation](http://zurb.com/ink/docs.php#block-grid)
 ```
 <!-- Block Grid -->
 
@@ -147,6 +154,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 #### <a name="Button"></a>Button
+[Ink Documentation](http://zurb.com/ink/docs.php#buttons)
 ```
 <!-- Button -->
 
@@ -164,6 +172,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ---
 
 #### <a name="Image"></a>Image
+[Ink Documentation](http://zurb.com/ink/docs.php#images)
 ```
 <!-- Image -->
 
