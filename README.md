@@ -1,8 +1,13 @@
 
 # Atom snippets for Zurb Ink
 
+Collection of snippets to make using [Zurb Ink v1.0.5](http://zurb.com/ink/) easier
+
 Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-sublime-snippets)
 
+---
+
+### Snippets
 | Module | Atom Prefix | Description  |
 |:------------- | :------------- | :----------- |
 | [Boilerplate](###Boilerplate) | zi-boilerplate |  Sets up your document |
@@ -17,7 +22,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 
 —
 
-### Boilerplate
+#### Boilerplate
 ```
 <!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
 <html xmlns=“http://www.w3.org/1999/xhtml”>
@@ -51,7 +56,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-### Container
+#### Container
 ```
 <!-- Container -->
 
@@ -80,7 +85,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 
 ---
 
-### Wrapper
+#### Wrapper
 ```
 <!-- Wrapper -->
 
@@ -90,7 +95,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-### Columns
+#### Columns
 ```
 <!-- Columns -->
 
@@ -108,7 +113,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-### Sub-column
+#### Sub-column
 ```
 <!-- Sub-Column -->
 
@@ -120,7 +125,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-### Block
+#### Block
 ```
 <!-- Block Grid -->
 
@@ -141,7 +146,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-### Button
+#### Button
 ```
 <!-- Button -->
 
@@ -158,7 +163,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-### Image
+#### Image
 ```
 <!-- Image -->
 
