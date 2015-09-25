@@ -6,7 +6,12 @@ Collection of snippets to make using [Zurb Ink v1.0.5](http://zurb.com/ink/) eas
 Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-sublime-snippets)
 
 ---
+### Installation
+- In Atom: File > Open Your Snippets
+- Copy the contents of atom-ink-snippets.cson into snippets.cson
+- Type one of the Atom Prefixes below (ex: zi-boilerplate) in an HTML document and press tab
 
+---
 ### Snippets
 | Module | Atom Prefix | Description  |
 |:------------- | :------------- | :----------- |
