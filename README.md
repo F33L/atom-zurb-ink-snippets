@@ -17,8 +17,8 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 | [Columns](#Columns) | zi-columns | Go inside wrappers to determine width of content block  |
 | [Sub-column](#Sub-column) | zi-sub-column | Sub-grid inside a column  |
 | [Block](#Block) | zi-block | Even-width element grid that doesn't use media queries  |
-| [Button](#Button) | zi-button | Empty button placeholder with documentation differnt Ink button styles  |
-| [Image](#Image) | zi-image | Empty image placeholder with size documentation for different grid sizes |
+| [Button](#Button) | zi-button | Empty button placeholder with button style documentation  |
+| [Image](#Image) | zi-image | Empty image placeholder with sizing documentation |
 
 —
 
