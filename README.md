@@ -1,5 +1,5 @@
 
-# Atom snippets for the Zurb Ink email framework
+# Atom snippets for Zurb Ink
 
 Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-sublime-snippets)
 
