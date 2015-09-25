@@ -1,5 +1,5 @@
-# atom-zurb-ink-snippets
-Zurb Ink snippets for the Atom text editor
+
+# Atom snippets for the Zurb Ink email framework
 
 Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-sublime-snippets)
 
