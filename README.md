@@ -56,7 +56,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-#### Container
+#### <a name="Container"></a>Container
 ```
 <!-- Container -->
 
@@ -71,7 +71,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 
 ---
 
-### Row
+### <a name="Row">Row
 ```
 <!-- Row -->
 
@@ -85,7 +85,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 
 ---
 
-#### Wrapper
+#### <a name="Wrapper"></a>Wrapper
 ```
 <!-- Wrapper -->
 
@@ -95,7 +95,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-#### Columns
+#### <a name="Columns"></a>Columns
 ```
 <!-- Columns -->
 
@@ -113,7 +113,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-#### Sub-column
+#### <a name="Sub-column"></a>Sub-column
 ```
 <!-- Sub-Column -->
 
@@ -125,7 +125,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-#### Block
+#### <a name="Block"></a>Block
 ```
 <!-- Block Grid -->
 
@@ -146,7 +146,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-#### Button
+#### <a name="Button"></a>Button
 ```
 <!-- Button -->
 
@@ -163,7 +163,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 ```
 ---
 
-#### Image
+#### <a name="Image"></a>Image
 ```
 <!-- Image -->
 
