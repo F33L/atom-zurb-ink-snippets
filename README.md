@@ -20,7 +20,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 | [Button](#Button) | zi-button | Empty button placeholder with button style documentation  |
 | [Image](#Image) | zi-image | Empty image placeholder with sizing documentation |
 
-—
+---
 
 #### <a name="boilerplate"></a>Boilerplate 
 ```
