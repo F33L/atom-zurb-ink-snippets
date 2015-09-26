@@ -12,9 +12,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 - Type one of the Atom Prefixes below (ex: zi-boilerplate) in an HTML document and press tab
 
 ---
-### Snippets
-
-#### Setup and Layout
+### Snippets - Setup and Layout
 |Element|Usage|Description|
 |:---|:---|:---|
 | [Boilerplate](#boilerplate) | zi-boilerplate |  Sets up your document |
@@ -26,7 +24,7 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 | [Block](#Block) | zi-block | Even-width element grid that doesn't use media queries  |
 
 
-#### Components
+### Snippets - Components
 |Element|Usage|Description|
 |:---|:---|:---|
 | [Button](#Button) | zi-button | Empty button placeholder with button style documentation  |
