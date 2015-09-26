@@ -13,8 +13,10 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 
 ---
 ### Snippets
-| Module | Atom Prefix | Description  |
-|:------------- | :------------- | :----------- |
+
+#### Setup and Layout
+|Element|Usage|Description|
+|:---|:---|:---|
 | [Boilerplate](#boilerplate) | zi-boilerplate |  Sets up your document |
 | [Container](#Container) | zi-container | Wraps the content and maintains a fixed width  |
 | [Row](#Row) | zi-row | Separates blocks of content vertically  |
@@ -22,6 +24,11 @@ Based on [ZURB Ink Sublime Snippets](https://github.com/christianrojas/zurb-ink-
 | [Columns](#Columns) | zi-columns | Go inside wrappers to determine width of content block  |
 | [Sub-column](#Sub-column) | zi-sub-column | Sub-grid inside a column  |
 | [Block](#Block) | zi-block | Even-width element grid that doesn't use media queries  |
+
+
+#### Components
+|Element|Usage|Description|
+|:---|:---|:---|
 | [Button](#Button) | zi-button | Empty button placeholder with button style documentation  |
 | [Image](#Image) | zi-image | Empty image placeholder with sizing documentation |
 
